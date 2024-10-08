@@ -1,7 +1,7 @@
 criaCartao(
     'História',
     'Quem foi o primeiro imperador de Roma',
-    'Augusto também conhecido como Otaviano').
+    'Augusto também conhecido como Otaviano')
     
     criaCartao(
     
